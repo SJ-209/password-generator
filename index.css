@@ -31,7 +31,8 @@ body {
 }
 
 span {
-    color:#34D399;
+    /* color:#34D399; */
+    color:#43acdc;
 }
 
 p {
@@ -45,7 +46,7 @@ p {
 
 button{
     cursor: pointer;
-    background-color: #10B981;
+    background-color: #c99f2e;
     border-radius:6px;
     border:none;
     color: white;
